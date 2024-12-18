@@ -1,6 +1,8 @@
 # Ambiencys
 Ambiencies is an ambient music app that aims to transport you into a certain mood or atmosphere through different types of images and sounds.
 To create it I simply created a view with a series of playlists, each selectable and I simply implemented a simple player
+# A GITHUB ISSUE
+Unfortunately i couldn't upload the albums because of the data file weight limits from github 
 # OVERVIEW
 
 - App Icon
